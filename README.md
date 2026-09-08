@@ -20,7 +20,7 @@ Investigasi dilakukan secara penuh menggunakan AWS CLI dan utilitas Linux Termin
 ---
 
 ## Architecture & Scenario Setup
-
+| ![architecture-diagram](images/architecture-diagram.png) |
 | Skenario | Deskripsi Masalah |
 | :--- | :--- |
 | **Masalah 1 (Akses Web HTTP)** | Instance Cafe Web Server di public subnet tidak dapat diakses melalui web browser (Connection Timed Out). |
